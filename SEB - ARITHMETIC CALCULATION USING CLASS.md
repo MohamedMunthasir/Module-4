@@ -33,8 +33,8 @@ To write a Python program to perform addition and division operations using a cl
 ---
 
 ### PROGRAM
-REG NO : 212222220032
-NAME : Rahul B
+REG NO : 212222220025
+NAME : Mohamed Munthasir Y
 ```
 class saveetha:
     def add(self,a,b):
