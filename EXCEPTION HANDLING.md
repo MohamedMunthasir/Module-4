@@ -21,8 +21,8 @@ To create a Python program that prompts the user for a list of grades separated 
 ---
 
 ### PROGRAM
-REG No: 212222220032
-NAME: Rahul B
+REG No: 212222220025
+NAME: Mohamed Munthasir Y
 
 ```
 grades = input().split(",")
