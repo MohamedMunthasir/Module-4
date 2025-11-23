@@ -28,8 +28,8 @@ To write a Python program that reads a file and counts the frequency of each cha
 ---
 
 ### PROGRAM
-REG NO: 212222220032
-NAME : Rahul B
+REG NO: 212222220025
+NAME : Mohamed Munthasir Y
 ```
 a=input()
 b=input()
